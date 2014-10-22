@@ -18,7 +18,7 @@ npm install
 
 ### 2) Run Gulp
 
-Run gulp to make sure all CSS and JavaScript files are the latest versions.
+Run gulp to make suree all CSS and JavaScript files are the latest versions.
 ```
 gulp
 ```
